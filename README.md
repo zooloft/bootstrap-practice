@@ -2,6 +2,11 @@
 
 * **Objective** - Attempt to recreate the website shown below using bootstrap.
 * **Purpose** - To establish familiarity with Bootstrap and use of Bootstrap documentation.
+* **Requirements**
+    * Navbar with image
+    * 4 image top cards with different color buttons (using bootstrap)
+    * Appropriate breakpoints for cards for various sized screens
+    
 * **Helpful Links** 
     * Cards: https://getbootstrap.com/docs/4.0/components/card/ 
     * Navbar: https://getbootstrap.com/docs/5.0/components/navbar/
@@ -24,6 +29,7 @@
     * From the text editor,in the directory you use to store your projects (ex. `dev` directory), locate the newly cloned project
     * Expand the project from the _project explorer (may just be called `explorer`)_
     * Modify the `index.html` and `style.css` (if needed) to complete the assignment.
+    
 
 ### Part 3 - _Pushing_ new changes to repository
 
