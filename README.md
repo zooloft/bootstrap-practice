@@ -20,7 +20,7 @@
     * Select the directory you use to store your projects (ex. `dev` directory) 
     * From the text editor,in the directory you use to store your projects (ex. `dev` directory), locate the newly cloned project
     * Expand the project from the _project explorer (may just be called `explorer`)_
-    * Modify the `index.html` and `style.css` by adding code and data to fit your persona.
+    * Modify the `index.html` and `style.css` (if needed) to complete the assignment.
 
 ### Part 3 - _Pushing_ new changes to repository
 
