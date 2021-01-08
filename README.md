@@ -6,7 +6,8 @@
     * Navbar with image
     * 4 image top cards with different color buttons (using bootstrap)
     * Appropriate breakpoints for cards for various sized screens
-    
+    * Does not have to be a perfect recreation, just needs to satisfy the requirements above
+
 * **Helpful Links** 
     * Cards: https://getbootstrap.com/docs/4.0/components/card/ 
     * Navbar: https://getbootstrap.com/docs/5.0/components/navbar/
