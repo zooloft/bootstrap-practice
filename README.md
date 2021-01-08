@@ -5,6 +5,8 @@
     * Cards: https://getbootstrap.com/docs/4.0/components/card/ 
     * Navbar: https://getbootstrap.com/docs/5.0/components/navbar/
 
+    ![](./resources/img/bootstrap-practice-image.png)
+
 ## Part 1 - Clone the project
 
 * Begin by _forking_ this project into a personal repository.
