@@ -1,5 +1,6 @@
 # bootstrap-practice
 
+* **Objective** - Attempt to recreate the website shown below using bootstrap.
 * **Purpose** - To establish familiarity with Bootstrap and use of Bootstrap documentation.
 * **Helpful Links** 
     * Cards: https://getbootstrap.com/docs/4.0/components/card/ 
